@@ -52,7 +52,7 @@ learning, and open-source development**.
 
 ## 🌟 Featured Projects
 
-### 🔐 DPO AI Security Suite
+### 🔐 [DPO AI Security Suite](https://github.com/bobnard99/DPO-ai-security-suite)
 
 An AI-powered data protection and compliance platform focused on
 privacy-by-design and secure handling of sensitive information.
@@ -61,7 +61,7 @@ privacy-by-design and secure handling of sensitive information.
 
 ---
 
-### 🌍 SURA Rwanda
+### 🌍 [SURA Rwanda](https://github.com/bobnard99/SURA-Rwanda)
 
 An AI-powered tourism platform designed to help users discover
 Rwanda's destinations, accommodation, food, travel information,
@@ -71,7 +71,7 @@ and other travel insights.
 
 ---
 
-### 🌱 Open Source Kigali
+### 🌱 [Open Source Kigali](https://github.com/bobnard99/osk-frontend)
 
 Contributing to the Open Source Kigali ecosystem and gaining
 hands-on experience with collaborative open-source development.
@@ -84,11 +84,37 @@ hands-on experience with collaborative open-source development.
 
 ```text
 AI Agents
-   ↓
+    ↓
 LangChain & LangGraph
-   ↓
+    ↓
 Intelligent Applications
-   ↓
+    ↓
 Cybersecurity & Privacy
-   ↓
+    ↓
 Secure Full-Stack Systems
+```
+---
+## 🎯 My Goals
+
+- 🚀 Build production-ready software that solves real-world problems
+- 🤖 Design and build reliable AI agents and intelligent applications
+- 🔐 Grow into a strong cybersecurity and secure software engineering professional
+- 🌍 Contribute to open-source projects and Rwanda's growing tech ecosystem
+- 💡 Combine software engineering, AI, and cybersecurity to create meaningful technology
+- 📚 Continuously strengthen my technical and problem-solving skills
+- 🤝 Work with talented teams and contribute to impactful technology projects
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to opportunities, collaborations, internships,
+open-source projects, and conversations about technology.
+
+📍 Kigali, Rwanda 🇷🇼
+
+---
+
+### 💡 Building. Learning. Contributing.
+
+**One project at a time.**
